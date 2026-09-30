@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,merchant,category,amount,transaction_type
+754,2025-01-02,Verizon,Utilities,57.29,debit
+34,2025-01-04,Dominos,Dining,238.68,debit
+572,2025-01-04,Best Buy,Shopping,187.72,debit
+973,2025-01-05,Nike,Shopping,14.24,debit
+127,2025-01-06,BGE,Utilities,223.7,debit
+410,2025-01-06,Nike,Shopping,226.94,debit
+665,2025-01-07,Panera Bread,Dining,237.46,debit
+621,2025-01-07,Verizon,Utilities,106.04,debit
+7,2025-01-07,Best Buy,Shopping,190.91,debit
+944,2025-01-08,Amazon,Shopping,130.32,debit
+346,2025-01-08,Netflix,Entertainment,55.08,debit
+48,2025-01-08,Netflix,Entertainment,22.39,debit
+940,2025-01-09,Verizon,Utilities,59.82,debit
+756,2025-01-10,Comcast,Utilities,6.98,debit
+991,2025-01-10,BGE,Utilities,78.77,debit
+809,2025-01-10,BGE,Utilities,237.99,debit
+787,2025-01-12,Verizon,Utilities,45.14,debit
+555,2025-01-12,BGE,Utilities,69.08,debit
+167,2025-01-13,Comcast,Utilities,213.15,debit
+830,2025-01-13,Chipotle,Dining,20.11,debit
+795,2025-01-13,Whole Foods,Groceries,64.92,debit
+974,2025-01-15,Panera Bread,Dining,223.54,debit
+604,2025-01-16,Shell,Transportation,56.89,debit
+60,2025-01-16,BGE,Utilities,242.4,debit
+585,2025-01-17,Comcast,Utilities,63.96,debit
+612,2025-01-17,Starbucks,Dining,68.89,debit
+510,2025-01-18,Exxon,Transportation,95.25,debit
+181,2025-01-18,Nike,Shopping,27.8,debit
+975,2025-01-19,Netflix,Entertainment,170.8,debit
+516,2025-01-20,Trader Joe's,Groceries,113.05,debit
+919,2025-01-21,Shell,Transportation,87.78,debit
+880,2025-01-21,Walmart,Groceries,83.09,debit
+857,2025-01-21,Starbucks,Dining,133.98,debit
+142,2025-01-21,AMC Theatres,Entertainment,214.9,debit
+984,2025-01-23,Starbucks,Dining,149.47,debit
+267,2025-01-23,Comcast,Utilities,244.6,debit
+694,2025-01-24,Whole Foods,Groceries,213.05,debit
+102,2025-01-25,Starbucks,Dining,166.71,debit
+1,2025-01-26,Verizon,Utilities,186.68,debit
+305,2025-01-27,Chipotle,Dining,37.29,debit
+512,2025-01-28,BGE,Utilities,151.24,debit
+105,2025-01-29,Spotify,Entertainment,33.26,debit
+175,2025-01-30,Best Buy,Shopping,126.11,debit
+255,2025-01-30,Comcast,Utilities,16.27,debit
+475,2025-01-30,Netflix,Entertainment,24.9,debit
+928,2025-01-30,AMC Theatres,Entertainment,47.57,debit
+146,2025-01-30,Nike,Shopping,100.27,debit
+4,2025-01-31,Amazon,Shopping,27.96,debit
+847,2025-01-31,Netflix,Entertainment,224.46,debit
+477,2025-02-01,Spotify,Entertainment,127.02,debit
+336,2025-02-01,Trader Joe's,Groceries,27.48,debit
+156,2025-02-01,Verizon,Utilities,237.65,debit
+21,2025-02-02,Trader Joe's,Groceries,202.24,debit
+575,2025-02-02,Safeway,Groceries,75.34,debit
+586,2025-02-04,Whole Foods,Groceries,114.38,debit
+443,2025-02-05,Dominos,Dining,35.93,debit
+542,2025-02-08,Comcast,Utilities,7.27,debit
+856,2025-02-08,Dominos,Dining,27.11,debit
+539,2025-02-08,BGE,Utilities,228.74,debit
+777,2025-02-10,Lyft,Transportation,231.03,debit
+273,2025-02-10,BGE,Utilities,80.69,debit
+93,2025-02-10,Shell,Transportation,225.24,debit
+602,2025-02-10,BGE,Utilities,219.04,debit
+997,2025-02-10,Lyft,Transportation,139.29,debit
+824,2025-02-11,Comcast,Utilities,57.68,debit
+835,2025-02-13,Uber,Transportation,235.86,debit
+439,2025-02-13,Exxon,Transportation,183.07,debit
+906,2025-02-13,Starbucks,Dining,108.73,debit
+110,2025-02-15,Panera Bread,Dining,178.65,debit
+14,2025-02-16,Verizon,Utilities,167.01,debit
+573,2025-02-16,Netflix,Entertainment,108.81,debit
+345,2025-02-16,Comcast,Utilities,59.03,debit
+746,2025-02-17,Uber,Transportation,29.4,debit
+123,2025-02-17,Chipotle,Dining,64.99,debit
+875,2025-02-19,Whole Foods,Groceries,99.55,debit
+988,2025-02-19,Verizon,Utilities,173.99,debit
+987,2025-02-19,Netflix,Entertainment,167.18,debit
+587,2025-02-19,BGE,Utilities,64.96,debit
+269,2025-02-20,BGE,Utilities,228.1,debit
+918,2025-02-20,Lyft,Transportation,187.71,debit
+299,2025-02-21,Chipotle,Dining,197.76,debit
+487,2025-02-21,Chipotle,Dining,76.1,debit
+195,2025-02-22,Lyft,Transportation,66.86,debit
+513,2025-02-22,Lyft,Transportation,147.96,debit
+226,2025-02-22,Nike,Shopping,54.87,debit
+601,2025-02-22,Trader Joe's,Groceries,70.77,debit
+154,2025-02-23,BGE,Utilities,249.98,debit
+379,2025-02-23,BGE,Utilities,198.36,debit
+752,2025-02-23,Verizon,Utilities,102.1,debit
+339,2025-02-23,Uber,Transportation,43.12,debit
+307,2025-02-23,Panera Bread,Dining,36.06,debit
+888,2025-02-25,Target,Shopping,93.4,debit
+569,2025-02-26,Spotify,Entertainment,116.09,debit
+634,2025-02-27,Nike,Shopping,161.0,debit
+69,2025-02-28,Netflix,Entertainment,240.39,debit
+950,2025-02-28,Netflix,Entertainment,202.33,debit
+969,2025-03-01,Panera Bread,Dining,6.15,debit
+784,2025-03-01,Target,Shopping,64.9,debit
+66,2025-03-01,Lyft,Transportation,146.9,debit
+62,2025-03-02,Dominos,Dining,45.34,debit
+297,2025-03-04,Comcast,Utilities,102.54,debit
+311,2025-03-04,Verizon,Utilities,249.65,debit
+518,2025-03-05,Nike,Shopping,177.91,debit
+374,2025-03-05,Target,Shopping,115.38,debit
+556,2025-03-05,Lyft,Transportation,168.61,debit
+565,2025-03-05,Netflix,Entertainment,208.05,debit
+742,2025-03-06,Best Buy,Shopping,199.94,debit
+286,2025-03-06,Netflix,Entertainment,160.67,debit
+308,2025-03-07,Amazon,Shopping,121.68,debit
+196,2025-03-08,Amazon,Shopping,103.17,debit
+833,2025-03-08,Whole Foods,Groceries,53.45,debit
+22,2025-03-09,Best Buy,Shopping,56.69,debit
+783,2025-03-09,BGE,Utilities,80.99,debit
+380,2025-03-09,Comcast,Utilities,85.77,debit
+322,2025-03-10,Comcast,Utilities,27.35,debit
+874,2025-03-11,Starbucks,Dining,90.87,debit
+421,2025-03-11,Walmart,Groceries,89.48,debit
+622,2025-03-11,Verizon,Utilities,178.26,debit
+802,2025-03-12,Safeway,Groceries,219.86,debit
+252,2025-03-12,Amazon,Shopping,62.52,debit
+155,2025-03-12,Lyft,Transportation,196.4,debit
+70,2025-03-12,Trader Joe's,Groceries,150.78,debit
+761,2025-03-12,Starbucks,Dining,134.97,debit
+50,2025-03-14,Walmart,Groceries,130.97,debit
+18,2025-03-15,Comcast,Utilities,154.24,debit
+350,2025-03-15,Panera Bread,Dining,102.28,debit
+651,2025-03-17,Lyft,Transportation,25.1,debit
+78,2025-03-17,Netflix,Entertainment,136.72,debit
+499,2025-03-17,Shell,Transportation,99.66,debit
+882,2025-03-18,Target,Shopping,139.03,debit
+620,2025-03-18,Whole Foods,Groceries,236.57,debit
+815,2025-03-18,Dominos,Dining,150.01,debit
+738,2025-03-19,Nike,Shopping,160.24,debit
+370,2025-03-20,Shell,Transportation,162.94,debit
+390,2025-03-21,Starbucks,Dining,77.47,debit
+435,2025-03-22,Safeway,Groceries,110.5,debit
+313,2025-03-24,Amazon,Shopping,83.92,debit
+214,2025-03-24,Nike,Shopping,151.52,debit
+563,2025-03-25,Starbucks,Dining,133.75,debit
+340,2025-03-25,Netflix,Entertainment,71.67,debit
+406,2025-03-25,Dominos,Dining,96.85,debit
+153,2025-03-25,Best Buy,Shopping,120.23,debit
+635,2025-03-26,Verizon,Utilities,127.47,debit
+779,2025-03-26,Nike,Shopping,161.93,debit
+751,2025-03-26,Shell,Transportation,96.1,debit
+149,2025-03-27,Amazon,Shopping,162.47,debit
+120,2025-03-28,Verizon,Utilities,74.53,debit
+767,2025-03-28,Panera Bread,Dining,65.8,debit
+198,2025-03-29,Spotify,Entertainment,248.51,debit
+40,2025-03-29,Chipotle,Dining,184.32,debit
+650,2025-03-29,Comcast,Utilities,194.18,debit
+764,2025-03-30,Target,Shopping,224.67,debit
+551,2025-03-30,Spotify,Entertainment,103.2,debit
+460,2025-03-30,Netflix,Entertainment,21.11,debit
+655,2025-03-31,Trader Joe's,Groceries,50.91,debit
+909,2025-03-31,Verizon,Utilities,100.08,debit
+971,2025-04-01,Dominos,Dining,36.7,debit
+924,2025-04-02,AMC Theatres,Entertainment,51.04,debit
+958,2025-04-02,Panera Bread,Dining,59.45,debit
+28,2025-04-04,Dominos,Dining,190.17,debit
+403,2025-04-04,Dominos,Dining,236.87,debit
+825,2025-04-04,Lyft,Transportation,179.23,debit
+633,2025-04-06,Whole Foods,Groceries,104.29,debit
+741,2025-04-06,Uber,Transportation,184.08,debit
+472,2025-04-06,AMC Theatres,Entertainment,128.13,debit
+320,2025-04-08,Nike,Shopping,81.57,debit
+733,2025-04-08,AMC Theatres,Entertainment,38.22,debit
+898,2025-04-10,BGE,Utilities,26.0,debit
+692,2025-04-10,Exxon,Transportation,112.35,debit
+55,2025-04-11,Amazon,Shopping,19.85,debit
+921,2025-04-11,BGE,Utilities,243.26,debit
+645,2025-04-11,Uber,Transportation,112.09,debit
+407,2025-04-12,Walmart,Groceries,210.6,debit
+254,2025-04-13,Amazon,Shopping,113.7,debit
+246,2025-04-13,Panera Bread,Dining,219.18,debit
+9,2025-04-15,Panera Bread,Dining,27.72,debit
+164,2025-04-15,Verizon,Utilities,175.81,debit
+94,2025-04-16,Starbucks,Dining,91.65,debit
+193,2025-04-16,Dominos,Dining,218.82,debit
+759,2025-04-16,Verizon,Utilities,81.77,debit
+656,2025-04-16,Nike,Shopping,11.43,debit
+82,2025-04-17,Spotify,Entertainment,235.04,debit
+422,2025-04-17,BGE,Utilities,194.02,debit
+220,2025-04-18,Shell,Transportation,215.14,debit
+689,2025-04-18,Safeway,Groceries,77.38,debit
+485,2025-04-19,AMC Theatres,Entertainment,83.18,debit
+912,2025-04-19,Chipotle,Dining,142.86,debit
+684,2025-04-19,Exxon,Transportation,7.58,debit
+653,2025-04-20,Shell,Transportation,27.42,debit
+543,2025-04-20,AMC Theatres,Entertainment,232.47,debit
+161,2025-04-21,Panera Bread,Dining,146.78,debit
+312,2025-04-21,Nike,Shopping,125.12,debit
+284,2025-04-21,Comcast,Utilities,170.33,debit
+680,2025-04-22,Uber,Transportation,193.39,debit
+56,2025-04-22,Comcast,Utilities,65.92,debit
+107,2025-04-22,Uber,Transportation,151.16,debit
+860,2025-04-24,Starbucks,Dining,212.39,debit
+999,2025-04-24,Whole Foods,Groceries,209.63,debit
+33,2025-04-25,Comcast,Utilities,76.91,debit
+584,2025-04-26,Lyft,Transportation,12.89,debit
+911,2025-04-26,Safeway,Groceries,106.54,debit
+672,2025-04-27,Best Buy,Shopping,233.36,debit
+317,2025-04-28,Amazon,Shopping,213.93,debit
+160,2025-04-28,AMC Theatres,Entertainment,195.56,debit
+208,2025-04-28,Dominos,Dining,138.42,debit
+330,2025-04-28,Shell,Transportation,191.84,debit
+83,2025-04-29,Panera Bread,Dining,222.98,debit
+892,2025-04-29,Safeway,Groceries,80.55,debit
+223,2025-04-29,Shell,Transportation,242.7,debit
+709,2025-04-30,Panera Bread,Dining,49.85,debit
+789,2025-05-01,Comcast,Utilities,194.0,debit
+726,2025-05-01,Safeway,Groceries,195.03,debit
+500,2025-05-02,Best Buy,Shopping,36.52,debit
+823,2025-05-03,Best Buy,Shopping,27.15,debit
+800,2025-05-03,Walmart,Groceries,128.0,debit
+457,2025-05-05,Netflix,Entertainment,246.36,debit
+228,2025-05-05,Comcast,Utilities,12.07,debit
+931,2025-05-07,Nike,Shopping,171.89,debit
+401,2025-05-08,BGE,Utilities,74.84,debit
+747,2025-05-08,Amazon,Shopping,232.71,debit
+462,2025-05-09,Amazon,Shopping,243.23,debit
+471,2025-05-09,Spotify,Entertainment,158.13,debit
+314,2025-05-10,Chipotle,Dining,72.38,debit
+41,2025-05-12,Trader Joe's,Groceries,166.64,debit
+464,2025-05-12,Spotify,Entertainment,220.1,debit
+834,2025-05-12,Comcast,Utilities,27.53,debit
+384,2025-05-13,Exxon,Transportation,150.79,debit
+977,2025-05-13,Shell,Transportation,30.16,debit
+816,2025-05-14,Safeway,Groceries,63.01,debit
+484,2025-05-14,Exxon,Transportation,191.36,debit
+324,2025-05-14,Comcast,Utilities,141.31,debit
+749,2025-05-16,Target,Shopping,221.13,debit
+79,2025-05-16,Spotify,Entertainment,233.65,debit
+423,2025-05-17,Comcast,Utilities,15.86,debit
+708,2025-05-18,Netflix,Entertainment,81.73,debit
+863,2025-05-20,Shell,Transportation,244.09,debit
+272,2025-05-21,Spotify,Entertainment,158.92,debit
+993,2025-05-21,AMC Theatres,Entertainment,107.61,debit
+965,2025-05-21,Trader Joe's,Groceries,248.13,debit
+138,2025-05-22,Netflix,Entertainment,41.95,debit
+409,2025-05-23,Exxon,Transportation,190.92,debit
+2,2025-05-23,Starbucks,Dining,185.44,debit
+552,2025-05-24,Trader Joe's,Groceries,121.98,debit
+618,2025-05-24,Lyft,Transportation,181.48,debit
+57,2025-05-24,Dominos,Dining,108.36,debit
+589,2025-05-24,Chipotle,Dining,128.45,debit
+280,2025-05-25,Amazon,Shopping,189.77,debit
+383,2025-05-25,AMC Theatres,Entertainment,229.6,debit
+690,2025-05-26,Whole Foods,Groceries,90.34,debit
+502,2025-05-28,Shell,Transportation,53.77,debit
+916,2025-05-28,Exxon,Transportation,156.47,debit
+597,2025-05-28,Panera Bread,Dining,202.42,debit
+408,2025-05-30,Comcast,Utilities,38.71,debit
+528,2025-05-30,Best Buy,Shopping,76.16,debit
+904,2025-05-31,AMC Theatres,Entertainment,34.47,debit
+302,2025-06-01,Panera Bread,Dining,198.22,debit
+514,2025-06-01,Dominos,Dining,206.31,debit
+361,2025-06-01,Shell,Transportation,62.89,debit
+91,2025-06-02,Whole Foods,Groceries,138.67,debit
+1000,2025-06-02,Comcast,Utilities,237.61,debit
+505,2025-06-02,Spotify,Entertainment,153.53,debit
+382,2025-06-03,BGE,Utilities,86.67,debit
+807,2025-06-04,Netflix,Entertainment,6.56,debit
+197,2025-06-05,Whole Foods,Groceries,41.55,debit
+780,2025-06-06,AMC Theatres,Entertainment,72.98,debit
+169,2025-06-06,Comcast,Utilities,111.69,debit
+157,2025-06-06,Chipotle,Dining,63.44,debit
+990,2025-06-06,Exxon,Transportation,55.35,debit
+652,2025-06-07,Dominos,Dining,186.22,debit
+445,2025-06-07,Netflix,Entertainment,171.37,debit
+292,2025-06-08,BGE,Utilities,221.93,debit
+95,2025-06-08,Spotify,Entertainment,231.81,debit
+84,2025-06-09,BGE,Utilities,71.73,debit
+820,2025-06-09,Netflix,Entertainment,30.89,debit
+203,2025-06-10,Uber,Transportation,63.77,debit
+204,2025-06-10,Netflix,Entertainment,5.66,debit
+481,2025-06-11,Verizon,Utilities,112.7,debit
+377,2025-06-12,AMC Theatres,Entertainment,94.16,debit
+133,2025-06-12,Spotify,Entertainment,187.2,debit
+849,2025-06-13,Netflix,Entertainment,29.53,debit
+442,2025-06-13,BGE,Utilities,238.43,debit
+557,2025-06-13,Best Buy,Shopping,104.33,debit
+29,2025-06-13,Trader Joe's,Groceries,199.06,debit
+89,2025-06-15,Comcast,Utilities,186.6,debit
+398,2025-06-15,Nike,Shopping,205.14,debit
+547,2025-06-16,Walmart,Groceries,184.12,debit
+879,2025-06-16,Verizon,Utilities,115.57,debit
+19,2025-06-17,Starbucks,Dining,118.25,debit
+695,2025-06-18,Verizon,Utilities,232.83,debit
+210,2025-06-19,Whole Foods,Groceries,199.19,debit
+438,2025-06-20,Comcast,Utilities,173.99,debit
+788,2025-06-20,Shell,Transportation,96.11,debit
+876,2025-06-20,Comcast,Utilities,221.72,debit
+905,2025-06-21,Target,Shopping,243.18,debit
+970,2025-06-22,Lyft,Transportation,146.19,debit
+660,2025-06-23,Comcast,Utilities,39.02,debit
+891,2025-06-24,Trader Joe's,Groceries,161.36,debit
+258,2025-06-24,Verizon,Utilities,47.89,debit
+354,2025-06-25,Walmart,Groceries,201.32,debit
+473,2025-06-25,Starbucks,Dining,166.39,debit
+453,2025-06-26,Safeway,Groceries,225.18,debit
+838,2025-06-26,Comcast,Utilities,91.72,debit
+775,2025-06-26,AMC Theatres,Entertainment,191.87,debit
+852,2025-06-27,Best Buy,Shopping,48.14,debit
+456,2025-06-28,Lyft,Transportation,199.46,debit
+827,2025-06-28,Shell,Transportation,12.62,debit
+424,2025-06-29,Spotify,Entertainment,208.44,debit
+786,2025-06-29,Walmart,Groceries,34.26,debit
+540,2025-06-30,Dominos,Dining,233.81,debit
+96,2025-07-01,Starbucks,Dining,220.95,debit
+363,2025-07-01,Chipotle,Dining,238.07,debit
+867,2025-07-01,Lyft,Transportation,183.56,debit
+579,2025-07-02,Uber,Transportation,248.25,debit
+628,2025-07-03,Comcast,Utilities,31.22,debit
+846,2025-07-04,Best Buy,Shopping,11.39,debit
+388,2025-07-04,Shell,Transportation,238.04,debit
+150,2025-07-06,Dominos,Dining,17.32,debit
+869,2025-07-06,Netflix,Entertainment,152.59,debit
+187,2025-07-09,BGE,Utilities,51.93,debit
+548,2025-07-10,Comcast,Utilities,8.45,debit
+649,2025-07-10,Nike,Shopping,171.53,debit
+433,2025-07-11,Best Buy,Shopping,126.57,debit
+714,2025-07-11,Lyft,Transportation,82.07,debit
+982,2025-07-12,Best Buy,Shopping,45.4,debit
+373,2025-07-12,AMC Theatres,Entertainment,83.77,debit
+770,2025-07-13,AMC Theatres,Entertainment,188.22,debit
+53,2025-07-14,Nike,Shopping,28.11,debit
+115,2025-07-16,Netflix,Entertainment,108.01,debit
+389,2025-07-16,Exxon,Transportation,60.5,debit
+186,2025-07-17,Chipotle,Dining,82.31,debit
+360,2025-07-18,AMC Theatres,Entertainment,226.95,debit
+396,2025-07-18,Exxon,Transportation,95.12,debit
+716,2025-07-19,Target,Shopping,204.73,debit
+125,2025-07-19,BGE,Utilities,180.99,debit
+963,2025-07-19,Safeway,Groceries,127.62,debit
+806,2025-07-20,Spotify,Entertainment,184.45,debit
+664,2025-07-20,Dominos,Dining,117.18,debit
+470,2025-07-21,Walmart,Groceries,160.59,debit
+831,2025-07-22,Starbucks,Dining,206.8,debit
+362,2025-07-22,Panera Bread,Dining,47.51,debit
+930,2025-07-23,Walmart,Groceries,72.12,debit
+995,2025-07-23,Safeway,Groceries,154.21,debit
+37,2025-07-23,AMC Theatres,Entertainment,42.45,debit
+100,2025-07-24,Target,Shopping,205.06,debit
+427,2025-07-24,Chipotle,Dining,222.02,debit
+452,2025-07-24,Exxon,Transportation,35.05,debit
+44,2025-07-25,BGE,Utilities,179.67,debit
+276,2025-07-25,Target,Shopping,37.38,debit
+858,2025-07-26,Walmart,Groceries,202.58,debit
+907,2025-07-26,Comcast,Utilities,249.33,debit
+819,2025-07-27,Chipotle,Dining,38.35,debit
+482,2025-07-28,Nike,Shopping,88.35,debit
+606,2025-07-29,BGE,Utilities,102.17,debit
+885,2025-07-30,Walmart,Groceries,243.73,debit
+729,2025-07-31,Starbucks,Dining,202.33,debit
+691,2025-07-31,Exxon,Transportation,132.67,debit
+822,2025-08-01,Spotify,Entertainment,115.72,debit
+202,2025-08-01,Whole Foods,Groceries,158.25,debit
+524,2025-08-01,Shell,Transportation,174.11,debit
+674,2025-08-03,Comcast,Utilities,112.42,debit
+43,2025-08-05,Spotify,Entertainment,232.58,debit
+151,2025-08-05,Best Buy,Shopping,116.4,debit
+51,2025-08-08,Exxon,Transportation,137.11,debit
+451,2025-08-08,Comcast,Utilities,249.11,debit
+701,2025-08-08,Amazon,Shopping,55.42,debit
+139,2025-08-08,Target,Shopping,20.74,debit
+411,2025-08-09,Walmart,Groceries,209.57,debit
+342,2025-08-09,Best Buy,Shopping,189.96,debit
+318,2025-08-09,BGE,Utilities,110.37,debit
+271,2025-08-13,Panera Bread,Dining,160.97,debit
+128,2025-08-13,Safeway,Groceries,48.09,debit
+27,2025-08-13,Best Buy,Shopping,249.34,debit
+851,2025-08-13,Verizon,Utilities,146.04,debit
+719,2025-08-14,Whole Foods,Groceries,76.56,debit
+358,2025-08-15,Comcast,Utilities,86.6,debit
+865,2025-08-17,Panera Bread,Dining,168.06,debit
+801,2025-08-17,Trader Joe's,Groceries,202.06,debit
+580,2025-08-17,Target,Shopping,209.53,debit
+329,2025-08-18,Dominos,Dining,212.58,debit
+937,2025-08-19,Starbucks,Dining,171.04,debit
+122,2025-08-19,Panera Bread,Dining,202.61,debit
+632,2025-08-20,Target,Shopping,78.49,debit
+199,2025-08-20,Safeway,Groceries,195.04,debit
+190,2025-08-21,Panera Bread,Dining,93.42,debit
+253,2025-08-21,Comcast,Utilities,187.96,debit
+648,2025-08-22,Nike,Shopping,92.17,debit
+983,2025-08-22,Amazon,Shopping,59.96,debit
+794,2025-08-22,Whole Foods,Groceries,186.49,debit
+49,2025-08-23,Verizon,Utilities,21.51,debit
+758,2025-08-23,Amazon,Shopping,98.85,debit
+614,2025-08-24,Panera Bread,Dining,98.06,debit
+637,2025-08-24,Whole Foods,Groceries,56.8,debit
+260,2025-08-26,Netflix,Entertainment,117.98,debit
+533,2025-08-27,Trader Joe's,Groceries,17.86,debit
+808,2025-08-27,Amazon,Shopping,137.68,debit
+15,2025-08-27,Uber,Transportation,217.29,debit
+395,2025-08-28,Comcast,Utilities,135.83,debit
+289,2025-08-29,Whole Foods,Groceries,222.38,debit
+75,2025-09-02,Panera Bread,Dining,70.08,debit
+229,2025-09-03,BGE,Utilities,178.9,debit
+771,2025-09-03,Uber,Transportation,126.25,debit
+629,2025-09-04,Trader Joe's,Groceries,52.02,debit
+259,2025-09-04,Spotify,Entertainment,126.93,debit
+417,2025-09-04,Spotify,Entertainment,144.81,debit
+179,2025-09-05,Chipotle,Dining,181.42,debit
+676,2025-09-05,Panera Bread,Dining,66.91,debit
+805,2025-09-06,Spotify,Entertainment,118.66,debit
+599,2025-09-06,Dominos,Dining,67.47,debit
+182,2025-09-07,Dominos,Dining,80.02,debit
+479,2025-09-08,Exxon,Transportation,202.15,debit
+840,2025-09-09,Chipotle,Dining,163.58,debit
+46,2025-09-11,Amazon,Shopping,60.05,debit
+724,2025-09-11,Amazon,Shopping,77.94,debit
+488,2025-09-12,Nike,Shopping,240.86,debit
+976,2025-09-12,BGE,Utilities,60.44,debit
+735,2025-09-13,Starbucks,Dining,40.83,debit
+929,2025-09-13,Chipotle,Dining,13.1,debit
+58,2025-09-13,Exxon,Transportation,219.25,debit
+448,2025-09-13,Shell,Transportation,240.33,debit
+399,2025-09-14,Netflix,Entertainment,17.78,debit
+215,2025-09-14,Best Buy,Shopping,11.34,debit
+429,2025-09-17,Spotify,Entertainment,13.97,debit
+986,2025-09-19,Safeway,Groceries,193.96,debit
+261,2025-09-19,Exxon,Transportation,168.38,debit
+347,2025-09-19,Starbucks,Dining,75.91,debit
+616,2025-09-21,Comcast,Utilities,192.02,debit
+278,2025-09-21,Lyft,Transportation,228.94,debit
+908,2025-09-22,Verizon,Utilities,83.34,debit
+934,2025-09-22,Lyft,Transportation,188.5,debit
+134,2025-09-23,Nike,Shopping,189.19,debit
+960,2025-09-24,Shell,Transportation,148.46,debit
+553,2025-09-25,Chipotle,Dining,98.98,debit
+450,2025-09-26,Netflix,Entertainment,194.87,debit
+283,2025-09-26,Best Buy,Shopping,148.22,debit
+704,2025-09-26,Amazon,Shopping,169.32,debit
+725,2025-09-27,Safeway,Groceries,90.4,debit
+282,2025-09-28,Amazon,Shopping,136.46,debit
+63,2025-09-29,Safeway,Groceries,232.0,debit
+476,2025-09-29,BGE,Utilities,164.53,debit
+42,2025-09-29,Netflix,Entertainment,134.28,debit
+209,2025-09-30,Verizon,Utilities,207.52,debit
+850,2025-09-30,Verizon,Utilities,135.75,debit
+486,2025-10-01,Amazon,Shopping,115.15,debit
+98,2025-10-01,Target,Shopping,44.0,debit
+333,2025-10-01,BGE,Utilities,12.09,debit
+722,2025-10-02,Netflix,Entertainment,194.9,debit
+172,2025-10-02,BGE,Utilities,83.96,debit
+923,2025-10-03,Best Buy,Shopping,183.56,debit
+216,2025-10-03,Chipotle,Dining,146.18,debit
+737,2025-10-03,AMC Theatres,Entertainment,158.81,debit
+170,2025-10-04,BGE,Utilities,155.9,debit
+185,2025-10-05,Comcast,Utilities,80.12,debit
+213,2025-10-06,Comcast,Utilities,127.62,debit
+137,2025-10-06,Lyft,Transportation,87.28,debit
+647,2025-10-07,Uber,Transportation,196.97,debit
+431,2025-10-07,Walmart,Groceries,35.5,debit
+546,2025-10-07,Dominos,Dining,52.24,debit
+750,2025-10-08,Lyft,Transportation,27.87,debit
+941,2025-10-09,Spotify,Entertainment,108.83,debit
+626,2025-10-09,AMC Theatres,Entertainment,136.26,debit
+268,2025-10-09,Comcast,Utilities,6.98,debit
+440,2025-10-09,Exxon,Transportation,161.67,debit
+910,2025-10-10,Best Buy,Shopping,132.32,debit
+662,2025-10-10,Dominos,Dining,108.17,debit
+236,2025-10-10,Chipotle,Dining,194.31,debit
+303,2025-10-11,Netflix,Entertainment,215.31,debit
+734,2025-10-11,Amazon,Shopping,217.43,debit
+188,2025-10-11,Comcast,Utilities,182.52,debit
+948,2025-10-11,Comcast,Utilities,68.98,debit
+152,2025-10-12,Exxon,Transportation,189.24,debit
+103,2025-10-13,Best Buy,Shopping,216.77,debit
+173,2025-10-13,Chipotle,Dining,221.0,debit
+839,2025-10-14,Panera Bread,Dining,114.27,debit
+812,2025-10-14,Trader Joe's,Groceries,27.79,debit
+177,2025-10-14,Shell,Transportation,220.68,debit
+671,2025-10-15,Exxon,Transportation,205.04,debit
+920,2025-10-15,Shell,Transportation,211.5,debit
+886,2025-10-16,Best Buy,Shopping,77.86,debit
+994,2025-10-17,Whole Foods,Groceries,32.93,debit
+607,2025-10-17,Panera Bread,Dining,98.26,debit
+189,2025-10-17,AMC Theatres,Entertainment,245.23,debit
+935,2025-10-19,Verizon,Utilities,11.73,debit
+768,2025-10-19,AMC Theatres,Entertainment,195.85,debit
+430,2025-10-20,Verizon,Utilities,92.46,debit
+270,2025-10-21,Comcast,Utilities,195.06,debit
+327,2025-10-22,Amazon,Shopping,152.1,debit
+526,2025-10-22,Comcast,Utilities,34.86,debit
+227,2025-10-22,Netflix,Entertainment,112.34,debit
+478,2025-10-24,BGE,Utilities,162.27,debit
+353,2025-10-24,Nike,Shopping,33.22,debit
+979,2025-10-25,Walmart,Groceries,116.7,debit
+205,2025-10-26,Nike,Shopping,13.0,debit
+669,2025-10-26,Best Buy,Shopping,185.04,debit
+416,2025-10-26,Verizon,Utilities,110.16,debit
+956,2025-10-28,Starbucks,Dining,28.91,debit
+889,2025-10-29,Amazon,Shopping,206.85,debit
+275,2025-10-30,Chipotle,Dining,85.05,debit
+707,2025-11-01,Target,Shopping,230.08,debit
+480,2025-11-01,Comcast,Utilities,116.12,debit
+946,2025-11-02,Spotify,Entertainment,172.68,debit
+238,2025-11-02,Walmart,Groceries,210.18,debit
+949,2025-11-02,BGE,Utilities,51.15,debit
+36,2025-11-02,Netflix,Entertainment,211.21,debit
+902,2025-11-03,Dominos,Dining,24.34,debit
+667,2025-11-04,Target,Shopping,83.56,debit
+922,2025-11-04,Starbucks,Dining,243.68,debit
+769,2025-11-05,Verizon,Utilities,55.33,debit
+413,2025-11-05,Lyft,Transportation,34.85,debit
+288,2025-11-08,Whole Foods,Groceries,249.0,debit
+117,2025-11-08,Netflix,Entertainment,75.29,debit
+101,2025-11-09,Best Buy,Shopping,206.03,debit
+201,2025-11-09,Spotify,Entertainment,144.31,debit
+437,2025-11-10,Shell,Transportation,114.25,debit
+978,2025-11-10,AMC Theatres,Entertainment,45.92,debit
+866,2025-11-11,Dominos,Dining,184.83,debit
+810,2025-11-11,Safeway,Groceries,30.47,debit
+39,2025-11-11,Walmart,Groceries,63.67,debit
+571,2025-11-12,Spotify,Entertainment,182.2,debit
+491,2025-11-12,Nike,Shopping,126.86,debit
+558,2025-11-15,AMC Theatres,Entertainment,174.12,debit
+67,2025-11-18,Netflix,Entertainment,19.01,debit
+112,2025-11-18,Comcast,Utilities,167.53,debit
+821,2025-11-18,Nike,Shopping,104.6,debit
+766,2025-11-19,Exxon,Transportation,198.81,debit
+640,2025-11-19,Trader Joe's,Groceries,8.84,debit
+23,2025-11-19,AMC Theatres,Entertainment,57.09,debit
+967,2025-11-20,Target,Shopping,216.29,debit
+366,2025-11-20,Spotify,Entertainment,41.98,debit
+74,2025-11-20,AMC Theatres,Entertainment,234.0,debit
+251,2025-11-21,Exxon,Transportation,158.57,debit
+818,2025-11-22,Comcast,Utilities,115.93,debit
+243,2025-11-22,Amazon,Shopping,187.45,debit
+693,2025-11-23,Comcast,Utilities,21.46,debit
+483,2025-11-23,Panera Bread,Dining,184.88,debit
+454,2025-11-24,Amazon,Shopping,168.62,debit
+799,2025-11-24,Dominos,Dining,71.46,debit
+872,2025-11-24,Panera Bread,Dining,46.13,debit
+610,2025-11-24,Comcast,Utilities,229.01,debit
+951,2025-11-24,Spotify,Entertainment,171.79,debit
+537,2025-11-25,Panera Bread,Dining,74.93,debit
+591,2025-11-25,AMC Theatres,Entertainment,63.04,debit
+436,2025-11-25,Panera Bread,Dining,30.14,debit
+468,2025-11-27,Starbucks,Dining,234.01,debit
+744,2025-11-27,Best Buy,Shopping,207.94,debit
+731,2025-11-28,Netflix,Entertainment,244.86,debit
+38,2025-11-28,Chipotle,Dining,124.71,debit
+859,2025-11-28,Lyft,Transportation,19.59,debit
+657,2025-11-29,Uber,Transportation,216.61,debit
+20,2025-11-29,Lyft,Transportation,211.5,debit
+803,2025-12-02,Shell,Transportation,26.16,debit
+506,2025-12-02,Netflix,Entertainment,233.19,debit
+666,2025-12-04,Exxon,Transportation,112.85,debit
+554,2025-12-04,Best Buy,Shopping,78.98,debit
+998,2025-12-05,Dominos,Dining,62.45,debit
+871,2025-12-06,Target,Shopping,187.61,debit
+97,2025-12-07,Trader Joe's,Groceries,196.68,debit
+504,2025-12-08,Trader Joe's,Groceries,201.97,debit
+88,2025-12-08,Whole Foods,Groceries,193.92,debit
+121,2025-12-10,BGE,Utilities,27.88,debit
+391,2025-12-11,Whole Foods,Groceries,219.72,debit
+947,2025-12-11,Amazon,Shopping,247.15,debit
+474,2025-12-12,BGE,Utilities,211.42,debit
+279,2025-12-13,Best Buy,Shopping,202.04,debit
+319,2025-12-14,Dominos,Dining,207.72,debit
+334,2025-12-14,Shell,Transportation,91.0,debit
+8,2025-12-15,Dominos,Dining,73.08,debit
+881,2025-12-17,Whole Foods,Groceries,46.68,debit
+981,2025-12-17,Verizon,Utilities,249.05,debit
+85,2025-12-18,Netflix,Entertainment,54.88,debit
+954,2025-12-18,Trader Joe's,Groceries,183.0,debit
+10,2025-12-19,Walmart,Groceries,152.91,debit
+240,2025-12-20,Nike,Shopping,86.45,debit
+529,2025-12-21,Uber,Transportation,231.38,debit
+706,2025-12-23,Netflix,Entertainment,91.24,debit
+404,2025-12-24,Dominos,Dining,232.97,debit
+877,2025-12-26,Nike,Shopping,138.78,debit
+368,2025-12-27,Uber,Transportation,129.3,debit
+630,2025-12-29,Spotify,Entertainment,70.49,debit
+54,2025-12-29,Comcast,Utilities,108.78,debit
+326,2025-12-29,Safeway,Groceries,219.03,debit
+681,2025-12-30,BGE,Utilities,45.75,debit
+996,2026-01-02,Lyft,Transportation,177.34,debit
+853,2026-01-03,Spotify,Entertainment,228.93,debit
+715,2026-01-03,Amazon,Shopping,238.2,debit
+608,2026-01-03,AMC Theatres,Entertainment,80.56,debit
+256,2026-01-03,Walmart,Groceries,96.84,debit
+955,2026-01-03,Dominos,Dining,129.29,debit
+654,2026-01-04,Exxon,Transportation,191.53,debit
+663,2026-01-05,Amazon,Shopping,66.67,debit
+773,2026-01-05,Whole Foods,Groceries,233.81,debit
+444,2026-01-06,Panera Bread,Dining,98.8,debit
+355,2026-01-06,Spotify,Entertainment,26.59,debit
+564,2026-01-06,AMC Theatres,Entertainment,24.14,debit
+13,2026-01-06,BGE,Utilities,146.45,debit
+295,2026-01-07,Target,Shopping,29.34,debit
+111,2026-01-08,Trader Joe's,Groceries,110.67,debit
+703,2026-01-10,Netflix,Entertainment,84.87,debit
+985,2026-01-11,Chipotle,Dining,179.22,debit
+559,2026-01-12,Comcast,Utilities,155.58,debit
+793,2026-01-12,Target,Shopping,43.54,debit
+459,2026-01-13,AMC Theatres,Entertainment,119.51,debit
+159,2026-01-13,Best Buy,Shopping,46.11,debit
+804,2026-01-13,Amazon,Shopping,54.16,debit
+895,2026-01-14,Exxon,Transportation,50.71,debit
+338,2026-01-14,Lyft,Transportation,81.35,debit
+80,2026-01-14,Trader Joe's,Groceries,74.82,debit
+17,2026-01-15,Lyft,Transportation,92.04,debit
+166,2026-01-15,Exxon,Transportation,21.89,debit
+294,2026-01-15,Uber,Transportation,58.23,debit
+813,2026-01-17,Dominos,Dining,117.32,debit
+631,2026-01-18,Amazon,Shopping,240.03,debit
+561,2026-01-18,BGE,Utilities,106.88,debit
+420,2026-01-18,Safeway,Groceries,67.14,debit
+501,2026-01-18,Safeway,Groceries,199.75,debit
+861,2026-01-18,Uber,Transportation,177.61,debit
+321,2026-01-19,Shell,Transportation,238.63,debit
+392,2026-01-21,Netflix,Entertainment,42.79,debit
+337,2026-01-21,Netflix,Entertainment,107.86,debit
+677,2026-01-22,Dominos,Dining,23.12,debit
+577,2026-01-22,Nike,Shopping,97.03,debit
+527,2026-01-24,BGE,Utilities,224.46,debit
+349,2026-01-25,Starbucks,Dining,135.48,debit
+989,2026-01-25,Nike,Shopping,35.28,debit
+594,2026-01-26,Walmart,Groceries,197.52,debit
+760,2026-01-27,Lyft,Transportation,194.5,debit
+99,2026-01-27,Verizon,Utilities,218.68,debit
+914,2026-01-28,Best Buy,Shopping,165.42,debit
+842,2026-01-28,Walmart,Groceries,38.62,debit
+796,2026-01-28,Best Buy,Shopping,230.46,debit
+643,2026-01-29,Best Buy,Shopping,190.12,debit
+30,2026-01-30,Amazon,Shopping,98.5,debit
+109,2026-01-30,Netflix,Entertainment,225.38,debit
+381,2026-01-31,AMC Theatres,Entertainment,74.62,debit
+244,2026-01-31,Comcast,Utilities,247.16,debit
+705,2026-02-02,Best Buy,Shopping,154.77,debit
+144,2026-02-04,Shell,Transportation,214.09,debit
+419,2026-02-04,Whole Foods,Groceries,218.97,debit
+868,2026-02-05,BGE,Utilities,213.44,debit
+782,2026-02-05,Panera Bread,Dining,148.68,debit
+507,2026-02-07,Lyft,Transportation,247.7,debit
+736,2026-02-07,Lyft,Transportation,124.92,debit
+817,2026-02-07,Shell,Transportation,176.68,debit
+887,2026-02-07,Whole Foods,Groceries,145.08,debit
+357,2026-02-10,Netflix,Entertainment,218.28,debit
+699,2026-02-10,Dominos,Dining,12.15,debit
+405,2026-02-10,Amazon,Shopping,127.99,debit
+646,2026-02-11,Walmart,Groceries,242.39,debit
+162,2026-02-11,Exxon,Transportation,235.66,debit
+250,2026-02-12,Shell,Transportation,164.21,debit
+641,2026-02-12,Starbucks,Dining,232.57,debit
+126,2026-02-14,Nike,Shopping,64.78,debit
+683,2026-02-14,BGE,Utilities,241.87,debit
+432,2026-02-14,Exxon,Transportation,187.11,debit
+917,2026-02-16,BGE,Utilities,14.5,debit
+497,2026-02-17,Shell,Transportation,94.65,debit
+114,2026-02-17,Best Buy,Shopping,175.82,debit
+71,2026-02-18,Verizon,Utilities,34.37,debit
+972,2026-02-18,Nike,Shopping,110.11,debit
+953,2026-02-19,Exxon,Transportation,100.13,debit
+698,2026-02-19,Target,Shopping,159.29,debit
+147,2026-02-19,BGE,Utilities,182.42,debit
+441,2026-02-20,Whole Foods,Groceries,94.01,debit
+550,2026-02-20,Starbucks,Dining,207.61,debit
+61,2026-02-21,Starbucks,Dining,123.98,debit
+378,2026-02-23,Exxon,Transportation,194.74,debit
+287,2026-02-23,Best Buy,Shopping,33.59,debit
+595,2026-02-23,Exxon,Transportation,41.56,debit
+675,2026-02-23,Uber,Transportation,169.88,debit
+248,2026-02-24,Trader Joe's,Groceries,218.38,debit
+625,2026-02-26,AMC Theatres,Entertainment,7.9,debit
+763,2026-02-26,Starbucks,Dining,155.94,debit
+517,2026-02-27,Target,Shopping,174.17,debit
+592,2026-02-28,Starbucks,Dining,78.62,debit
+658,2026-02-28,Walmart,Groceries,100.01,debit
+611,2026-02-28,Shell,Transportation,16.2,debit
+233,2026-03-02,Shell,Transportation,209.51,debit
+511,2026-03-03,Verizon,Utilities,148.01,debit
+598,2026-03-03,Safeway,Groceries,141.54,debit
+613,2026-03-04,AMC Theatres,Entertainment,77.32,debit
+679,2026-03-05,AMC Theatres,Entertainment,138.19,debit
+73,2026-03-06,Netflix,Entertainment,166.06,debit
+798,2026-03-06,BGE,Utilities,60.01,debit
+811,2026-03-06,Netflix,Entertainment,125.55,debit
+959,2026-03-07,Panera Bread,Dining,198.08,debit
+576,2026-03-07,Starbucks,Dining,96.74,debit
+141,2026-03-07,Trader Joe's,Groceries,100.42,debit
+757,2026-03-09,Uber,Transportation,175.04,debit
+87,2026-03-10,Whole Foods,Groceries,208.19,debit
+64,2026-03-10,Best Buy,Shopping,175.66,debit
+132,2026-03-13,BGE,Utilities,208.49,debit
+90,2026-03-14,AMC Theatres,Entertainment,142.42,debit
+593,2026-03-14,Trader Joe's,Groceries,141.18,debit
+728,2026-03-15,BGE,Utilities,45.67,debit
+26,2026-03-15,BGE,Utilities,224.97,debit
+331,2026-03-16,Netflix,Entertainment,212.06,debit
+753,2026-03-16,Lyft,Transportation,165.59,debit
+790,2026-03-16,Walmart,Groceries,71.64,debit
+743,2026-03-16,Target,Shopping,207.09,debit
+92,2026-03-17,Lyft,Transportation,36.22,debit
+343,2026-03-17,Walmart,Groceries,32.17,debit
+496,2026-03-18,Whole Foods,Groceries,37.81,debit
+323,2026-03-19,Whole Foods,Groceries,28.66,debit
+168,2026-03-20,Amazon,Shopping,240.39,debit
+884,2026-03-21,Target,Shopping,43.49,debit
+351,2026-03-23,Verizon,Utilities,9.59,debit
+356,2026-03-23,Trader Joe's,Groceries,149.27,debit
+108,2026-03-23,Shell,Transportation,153.52,debit
+45,2026-03-25,Best Buy,Shopping,225.41,debit
+393,2026-03-25,Starbucks,Dining,15.7,debit
+376,2026-03-25,Trader Joe's,Groceries,247.79,debit
+588,2026-03-26,Safeway,Groceries,62.41,debit
+136,2026-03-27,Panera Bread,Dining,23.98,debit
+896,2026-03-27,Walmart,Groceries,118.94,debit
+762,2026-03-27,Trader Joe's,Groceries,91.04,debit
+723,2026-03-28,Uber,Transportation,138.86,debit
+367,2026-03-29,Safeway,Groceries,159.69,debit
+200,2026-03-30,Nike,Shopping,77.85,debit
+131,2026-03-30,Best Buy,Shopping,155.1,debit
+394,2026-03-31,Lyft,Transportation,154.6,debit
+446,2026-03-31,Shell,Transportation,191.96,debit
+718,2026-03-31,Nike,Shopping,124.73,debit
+873,2026-04-03,Walmart,Groceries,7.79,debit
+463,2026-04-06,Verizon,Utilities,119.13,debit
+600,2026-04-06,Uber,Transportation,212.55,debit
+700,2026-04-06,Netflix,Entertainment,150.09,debit
+402,2026-04-06,Panera Bread,Dining,226.8,debit
+372,2026-04-06,Verizon,Utilities,227.72,debit
+369,2026-04-08,Exxon,Transportation,14.21,debit
+309,2026-04-08,Uber,Transportation,128.44,debit
+785,2026-04-10,Amazon,Shopping,155.01,debit
+290,2026-04-10,Dominos,Dining,95.9,debit
+16,2026-04-10,Best Buy,Shopping,160.74,debit
+206,2026-04-10,Shell,Transportation,22.44,debit
+316,2026-04-10,Best Buy,Shopping,128.86,debit
+222,2026-04-11,Amazon,Shopping,26.57,debit
+298,2026-04-11,Chipotle,Dining,27.46,debit
+740,2026-04-11,Comcast,Utilities,237.81,debit
+544,2026-04-11,Shell,Transportation,247.33,debit
+241,2026-04-12,Spotify,Entertainment,233.55,debit
+124,2026-04-12,Amazon,Shopping,106.54,debit
+234,2026-04-13,Target,Shopping,140.06,debit
+130,2026-04-13,Chipotle,Dining,37.67,debit
+748,2026-04-13,Dominos,Dining,5.17,debit
+570,2026-04-13,Spotify,Entertainment,143.16,debit
+264,2026-04-13,Best Buy,Shopping,212.1,debit
+414,2026-04-14,Dominos,Dining,20.39,debit
+426,2026-04-14,Chipotle,Dining,14.06,debit
+76,2026-04-14,Panera Bread,Dining,82.46,debit
+77,2026-04-15,Whole Foods,Groceries,157.18,debit
+24,2026-04-15,Nike,Shopping,40.0,debit
+942,2026-04-16,Best Buy,Shopping,66.74,debit
+583,2026-04-17,Starbucks,Dining,89.81,debit
+617,2026-04-17,Nike,Shopping,46.22,debit
+397,2026-04-18,Spotify,Entertainment,193.51,debit
+231,2026-04-18,Chipotle,Dining,237.03,debit
+371,2026-04-19,Safeway,Groceries,147.18,debit
+829,2026-04-19,Chipotle,Dining,29.97,debit
+581,2026-04-20,Walmart,Groceries,170.01,debit
+687,2026-04-20,Exxon,Transportation,194.22,debit
+129,2026-04-21,BGE,Utilities,17.3,debit
+364,2026-04-21,Comcast,Utilities,189.84,debit
+118,2026-04-22,Best Buy,Shopping,113.24,debit
+171,2026-04-22,Spotify,Entertainment,111.72,debit
+609,2026-04-23,Exxon,Transportation,29.16,debit
+212,2026-04-25,Amazon,Shopping,173.73,debit
+249,2026-04-26,Chipotle,Dining,196.47,debit
+194,2026-04-26,Spotify,Entertainment,122.28,debit
+495,2026-04-27,BGE,Utilities,75.01,debit
+219,2026-04-27,Amazon,Shopping,90.25,debit
+961,2026-04-27,Amazon,Shopping,18.15,debit
+534,2026-04-29,Best Buy,Shopping,29.63,debit
+848,2026-04-29,Uber,Transportation,134.71,debit
+183,2026-04-30,Spotify,Entertainment,140.6,debit
+915,2026-04-30,AMC Theatres,Entertainment,14.18,debit
+939,2026-05-01,Verizon,Utilities,228.32,debit
+901,2026-05-02,AMC Theatres,Entertainment,145.32,debit
+638,2026-05-02,BGE,Utilities,71.42,debit
+180,2026-05-03,Target,Shopping,163.25,debit
+536,2026-05-03,Dominos,Dining,121.97,debit
+143,2026-05-04,Spotify,Entertainment,6.44,debit
+560,2026-05-05,Starbucks,Dining,42.53,debit
+425,2026-05-06,Comcast,Utilities,159.78,debit
+668,2026-05-06,Verizon,Utilities,81.97,debit
+605,2026-05-06,Chipotle,Dining,229.04,debit
+603,2026-05-06,Starbucks,Dining,56.18,debit
+530,2026-05-06,Comcast,Utilities,57.43,debit
+890,2026-05-07,BGE,Utilities,53.92,debit
+525,2026-05-07,Best Buy,Shopping,90.46,debit
+844,2026-05-07,Best Buy,Shopping,138.41,debit
+265,2026-05-10,Dominos,Dining,31.13,debit
+883,2026-05-10,Walmart,Groceries,177.6,debit
+522,2026-05-11,Shell,Transportation,52.1,debit
+925,2026-05-12,Dominos,Dining,191.08,debit
+341,2026-05-13,Comcast,Utilities,153.73,debit
+65,2026-05-14,BGE,Utilities,42.93,debit
+864,2026-05-14,Comcast,Utilities,164.05,debit
+624,2026-05-15,Safeway,Groceries,8.85,debit
+176,2026-05-15,Lyft,Transportation,56.97,debit
+968,2026-05-15,Chipotle,Dining,86.49,debit
+145,2026-05-15,Target,Shopping,58.76,debit
+893,2026-05-16,Nike,Shopping,224.24,debit
+932,2026-05-16,Panera Bread,Dining,150.54,debit
+509,2026-05-17,AMC Theatres,Entertainment,178.64,debit
+293,2026-05-17,Verizon,Utilities,155.83,debit
+239,2026-05-17,AMC Theatres,Entertainment,216.99,debit
+661,2026-05-20,Shell,Transportation,40.75,debit
+855,2026-05-20,Netflix,Entertainment,137.82,debit
+545,2026-05-21,AMC Theatres,Entertainment,222.87,debit
+458,2026-05-21,Starbucks,Dining,11.44,debit
+494,2026-05-22,Walmart,Groceries,151.39,debit
+717,2026-05-22,AMC Theatres,Entertainment,105.24,debit
+245,2026-05-23,Verizon,Utilities,241.38,debit
+221,2026-05-23,Exxon,Transportation,75.61,debit
+541,2026-05-23,Safeway,Groceries,50.65,debit
+837,2026-05-24,Comcast,Utilities,12.22,debit
+952,2026-05-25,Verizon,Utilities,249.38,debit
+348,2026-05-25,Whole Foods,Groceries,188.02,debit
+232,2026-05-26,Verizon,Utilities,233.5,debit
+490,2026-05-26,Starbucks,Dining,249.01,debit
+772,2026-05-27,Trader Joe's,Groceries,161.33,debit
+449,2026-05-27,Trader Joe's,Groceries,131.85,debit
+35,2026-05-28,Comcast,Utilities,191.68,debit
+688,2026-05-28,AMC Theatres,Entertainment,41.93,debit
+503,2026-05-28,Spotify,Entertainment,14.86,debit
+644,2026-05-28,Chipotle,Dining,187.64,debit
+778,2026-05-29,Best Buy,Shopping,192.94,debit
+903,2026-05-30,Verizon,Utilities,144.95,debit
+627,2026-05-30,Uber,Transportation,204.22,debit
+68,2026-05-30,Spotify,Entertainment,230.25,debit
+466,2026-05-30,Dominos,Dining,228.12,debit
+375,2026-06-01,Uber,Transportation,163.3,debit
+492,2026-06-02,Safeway,Groceries,117.02,debit
+86,2026-06-02,Comcast,Utilities,124.69,debit
+623,2026-06-02,Trader Joe's,Groceries,116.72,debit
+927,2026-06-03,Walmart,Groceries,103.83,debit
+237,2026-06-04,Best Buy,Shopping,70.46,debit
+113,2026-06-04,Walmart,Groceries,80.77,debit
+235,2026-06-05,Target,Shopping,187.84,debit
+387,2026-06-05,Comcast,Utilities,93.65,debit
+104,2026-06-06,Shell,Transportation,102.92,debit
+685,2026-06-07,Lyft,Transportation,187.98,debit
+359,2026-06-07,Chipotle,Dining,160.14,debit
+792,2026-06-08,Nike,Shopping,93.23,debit
+119,2026-06-08,Verizon,Utilities,120.93,debit
+710,2026-06-08,Verizon,Utilities,100.17,debit
+781,2026-06-08,Uber,Transportation,230.63,debit
+826,2026-06-10,Exxon,Transportation,16.99,debit
+938,2026-06-10,Exxon,Transportation,9.91,debit
+415,2026-06-12,Amazon,Shopping,145.89,debit
+428,2026-06-12,Shell,Transportation,102.56,debit
+739,2026-06-12,Safeway,Groceries,188.7,debit
+926,2026-06-12,Uber,Transportation,198.92,debit
+696,2026-06-13,Verizon,Utilities,47.74,debit
+225,2026-06-15,Trader Joe's,Groceries,93.64,debit
+467,2026-06-15,Whole Foods,Groceries,42.49,debit
+217,2026-06-16,Dominos,Dining,164.62,debit
+434,2026-06-16,Best Buy,Shopping,70.35,debit
+469,2026-06-16,Panera Bread,Dining,224.26,debit
+567,2026-06-17,Panera Bread,Dining,113.25,debit
+992,2026-06-17,Verizon,Utilities,71.14,debit
+310,2026-06-18,Netflix,Entertainment,78.9,debit
+943,2026-06-18,Best Buy,Shopping,206.96,debit
+135,2026-06-18,Comcast,Utilities,123.73,debit
+900,2026-06-20,Safeway,Groceries,107.56,debit
+418,2026-06-21,Chipotle,Dining,243.79,debit
+980,2026-06-21,AMC Theatres,Entertainment,87.77,debit
+461,2026-06-23,Nike,Shopping,105.64,debit
+247,2026-06-23,Amazon,Shopping,228.06,debit
+520,2026-06-23,Comcast,Utilities,97.32,debit
+386,2026-06-24,Lyft,Transportation,27.9,debit
+412,2026-06-25,AMC Theatres,Entertainment,108.7,debit
+81,2026-06-26,Best Buy,Shopping,6.92,debit
+447,2026-06-27,Netflix,Entertainment,94.9,debit
+964,2026-06-27,Comcast,Utilities,78.1,debit
+277,2026-06-28,Spotify,Entertainment,127.94,debit
+257,2026-06-28,Starbucks,Dining,105.95,debit
+582,2026-06-29,Spotify,Entertainment,97.92,debit
+521,2026-06-30,Dominos,Dining,88.87,debit
+730,2026-06-30,Spotify,Entertainment,73.87,debit
+148,2026-07-01,Target,Shopping,11.61,debit
+191,2026-07-01,Uber,Transportation,36.01,debit
+913,2026-07-03,Walmart,Groceries,220.63,debit
+11,2026-07-04,Safeway,Groceries,35.58,debit
+32,2026-07-04,Whole Foods,Groceries,188.97,debit
+562,2026-07-05,Spotify,Entertainment,201.49,debit
+720,2026-07-05,Lyft,Transportation,75.72,debit
+712,2026-07-05,Dominos,Dining,174.89,debit
+596,2026-07-05,Target,Shopping,121.01,debit
+578,2026-07-07,BGE,Utilities,37.58,debit
+291,2026-07-08,BGE,Utilities,107.69,debit
+304,2026-07-08,Starbucks,Dining,66.41,debit
+574,2026-07-09,Verizon,Utilities,248.56,debit
+140,2026-07-10,Best Buy,Shopping,119.15,debit
+224,2026-07-10,Amazon,Shopping,118.18,debit
+619,2026-07-10,Target,Shopping,247.63,debit
+843,2026-07-11,Starbucks,Dining,199.74,debit
+639,2026-07-11,Walmart,Groceries,143.06,debit
+894,2026-07-12,Uber,Transportation,99.94,debit
+296,2026-07-12,Comcast,Utilities,225.92,debit
+3,2026-07-13,BGE,Utilities,26.3,debit
+6,2026-07-13,BGE,Utilities,107.78,debit
+262,2026-07-14,Best Buy,Shopping,43.7,debit
+315,2026-07-16,BGE,Utilities,179.48,debit
+721,2026-07-17,Nike,Shopping,130.15,debit
+455,2026-07-18,Verizon,Utilities,137.83,debit
+535,2026-07-18,Chipotle,Dining,244.59,debit
+673,2026-07-18,Starbucks,Dining,11.59,debit
+59,2026-07-18,Safeway,Groceries,28.99,debit
+841,2026-07-18,Nike,Shopping,122.36,debit
+615,2026-07-18,Dominos,Dining,165.38,debit
+184,2026-07-18,Exxon,Transportation,86.04,debit
+12,2026-07-20,Amazon,Shopping,76.83,debit
+230,2026-07-20,Uber,Transportation,104.96,debit
+31,2026-07-21,Best Buy,Shopping,215.89,debit
+797,2026-07-21,Chipotle,Dining,201.76,debit
+192,2026-07-21,Whole Foods,Groceries,76.57,debit
+400,2026-07-22,Best Buy,Shopping,233.9,debit
+713,2026-07-23,Verizon,Utilities,45.88,debit
+178,2026-07-24,Comcast,Utilities,7.49,debit
+828,2026-07-24,Nike,Shopping,188.28,debit
+281,2026-07-25,Dominos,Dining,94.61,debit
+332,2026-07-25,AMC Theatres,Entertainment,11.43,debit
+523,2026-07-26,Panera Bread,Dining,78.13,debit
+385,2026-07-27,Walmart,Groceries,97.29,debit
+957,2026-07-27,Panera Bread,Dining,191.91,debit
+697,2026-07-28,Panera Bread,Dining,109.46,debit
+945,2026-07-29,Comcast,Utilities,163.6,debit
+25,2026-07-29,Starbucks,Dining,137.05,debit
+5,2026-07-29,Chipotle,Dining,53.72,debit
+519,2026-07-29,Netflix,Entertainment,84.64,debit
+285,2026-07-29,Amazon,Shopping,85.36,debit
+325,2026-07-30,AMC Theatres,Entertainment,85.76,debit
+531,2026-07-30,Spotify,Entertainment,175.56,debit
+682,2026-07-31,Netflix,Entertainment,245.98,debit
+158,2026-08-01,Amazon,Shopping,237.2,debit
+642,2026-08-01,Lyft,Transportation,63.92,debit
+897,2026-08-01,Panera Bread,Dining,20.1,debit
+300,2026-08-02,Starbucks,Dining,55.28,debit
+365,2026-08-02,Spotify,Entertainment,162.53,debit
+870,2026-08-03,Netflix,Entertainment,30.51,debit
+745,2026-08-03,Lyft,Transportation,213.84,debit
+845,2026-08-03,Best Buy,Shopping,128.09,debit
+165,2026-08-03,Uber,Transportation,196.75,debit
+335,2026-08-03,Starbucks,Dining,166.05,debit
+636,2026-08-03,Best Buy,Shopping,244.45,debit
+549,2026-08-05,Shell,Transportation,170.23,debit
+854,2026-08-05,Walmart,Groceries,143.08,debit
+774,2026-08-06,Dominos,Dining,108.11,debit
+211,2026-08-06,AMC Theatres,Entertainment,230.69,debit
+116,2026-08-06,Target,Shopping,78.73,debit
+966,2026-08-07,Exxon,Transportation,223.75,debit
+498,2026-08-07,Amazon,Shopping,142.65,debit
+174,2026-08-07,Dominos,Dining,154.53,debit
+936,2026-08-09,Trader Joe's,Groceries,196.06,debit
+659,2026-08-09,Trader Joe's,Groceries,132.67,debit
+242,2026-08-09,Starbucks,Dining,98.83,debit
+732,2026-08-10,Shell,Transportation,70.5,debit
+515,2026-08-10,Chipotle,Dining,237.31,debit
+566,2026-08-10,Netflix,Entertainment,136.48,debit
+836,2026-08-11,Trader Joe's,Groceries,111.12,debit
+538,2026-08-11,Whole Foods,Groceries,61.89,debit
+266,2026-08-12,Best Buy,Shopping,77.49,debit
+711,2026-08-12,Netflix,Entertainment,99.01,debit
+686,2026-08-13,AMC Theatres,Entertainment,59.15,debit
+670,2026-08-13,Comcast,Utilities,196.58,debit
+590,2026-08-13,Lyft,Transportation,83.13,debit
+352,2026-08-13,Walmart,Groceries,110.17,debit
+52,2026-08-14,BGE,Utilities,120.8,debit
+791,2026-08-14,Walmart,Groceries,158.75,debit
+878,2026-08-15,Safeway,Groceries,164.49,debit
+489,2026-08-15,Panera Bread,Dining,181.68,debit
+328,2026-08-15,Uber,Transportation,129.32,debit
+702,2026-08-15,Verizon,Utilities,29.93,debit
+72,2026-08-16,Netflix,Entertainment,150.66,debit
+274,2026-08-17,Amazon,Shopping,94.39,debit
+106,2026-08-18,Lyft,Transportation,240.82,debit
+962,2026-08-18,BGE,Utilities,236.35,debit
+814,2026-08-18,Verizon,Utilities,28.42,debit
+832,2026-08-20,Uber,Transportation,148.6,debit
+678,2026-08-20,Spotify,Entertainment,103.2,debit
+568,2026-08-21,Verizon,Utilities,124.76,debit
+493,2026-08-21,Starbucks,Dining,91.46,debit
+218,2026-08-23,Lyft,Transportation,111.79,debit
+532,2026-08-24,Chipotle,Dining,63.62,debit
+862,2026-08-24,Comcast,Utilities,29.75,debit
+301,2026-08-24,Netflix,Entertainment,57.91,debit
+933,2026-08-24,Dominos,Dining,140.08,debit
+776,2026-08-25,Whole Foods,Groceries,21.55,debit
+465,2026-08-25,AMC Theatres,Entertainment,49.58,debit
+263,2026-08-25,Best Buy,Shopping,78.29,debit
+306,2026-08-26,Lyft,Transportation,84.32,debit
+47,2026-08-26,Uber,Transportation,140.71,debit
+727,2026-08-26,Starbucks,Dining,173.84,debit
+899,2026-08-27,Exxon,Transportation,60.74,debit
+207,2026-08-27,Panera Bread,Dining,166.99,debit
+765,2026-08-27,Chipotle,Dining,183.85,debit
+163,2026-08-30,Chipotle,Dining,174.2,debit
+344,2026-08-31,BGE,Utilities,124.23,debit
+508,2026-08-31,Comcast,Utilities,87.41,debit
+755,2026-08-31,Trader Joe's,Groceries,60.42,debit
